@@ -2,8 +2,8 @@ export function RocketLogo() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="200"
-      height="39"
+      width="162"
+      height="30"
       fill="none"
       viewBox="0 0 200 39"
     >
